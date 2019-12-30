@@ -1,6 +1,4 @@
 #!/usr/local/bin/python3
-# Copy template folder
-# Rename folder and "script" occurance in files to $1
 
 import sys
 import os
